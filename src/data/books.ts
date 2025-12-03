@@ -85,7 +85,7 @@ export const mainBooks: Book[] = [
     coverImage: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1509179919i/36490332.jpg",
     rating: 4.13,
     pageCount: 224,
-    difficulty: "Moderate",
+    difficulty: "Easy",
     pitch: "The former finance minister of Greece explains, in plain english, global finance and economics to his daughter. Helps one understand what currency rates, tariffs, trade sanctions etc are and what they really mean.",
     whyOnList: "1. We wanted to have a book for people who don't want to read fiction.\n2. The world would honestly be better if people knew macro-economics.\n3. It is genuinely filled with curiosity, humility and charm."
   },
