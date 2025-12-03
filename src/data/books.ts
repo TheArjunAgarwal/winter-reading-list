@@ -21,7 +21,7 @@ export const mainBooks: Book[] = [
     pageCount: 559,
     difficulty: "Easy",
     pitch: "The quintessential dark academia book. Not only did it pioneer a genre, it basically gave birth to an aesthetic. I'll let the blurb do rest of the talking:\nUnder the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality they slip gradually from obsession to corruption and betrayal, and at last inexorably—into evil.",
-    whyOnList: "It is a modern classic and has one of the best blurbs of like all time. Also, it is a fun and easy read."
+    whyOnList: "It is a modern classic and has one of the best blurbs of like all time. Also, it is a fun and easy read. It plays on and subverts a lot of the classic murder mystery tropes with both a reverse whodunit and unreliable narrator."
   },
   {
     id: "3",
@@ -31,7 +31,7 @@ export const mainBooks: Book[] = [
     rating: 4.12,
     pageCount: 416,
     difficulty: "Easy",
-    pitch: "The person who suggested this said: \"It's a book about friendship, love and more friendship. and games! It's a perfect read for the vacations\" and we couldn't agree more. It was the 2022 Goodreads choice award winner (Fiction).",
+    pitch: "The person who suggested this said: \"It's a book about friendship, love and more friendship. and games! It's a perfect read for the vacations\" and we couldn't agree more. It was the 2022 Goodreads Choice Award winner (Fiction) and is globally loved.",
     whyOnList: "From the book's blurb:\nSpanning thirty years, from Cambridge, Massachusetts, to Venice Beach, California, and lands in between and far beyond, Gabrielle Zevin's Tomorrow, and Tomorrow, and Tomorrow is a dazzling and intricately imagined novel that examines the multifarious nature of identity, disability, failure, the redemptive possibilities in play, and above all, our need to connect: to be loved and to love. Yes, it is a love story, but it is not one you have read before."
   },  
   {
@@ -42,7 +42,7 @@ export const mainBooks: Book[] = [
     rating: 4.10,
     pageCount: 544,
     difficulty: "Challenging",
-    pitch: "The book has a nickname: \"Factless Autobiography\". It is about the many personas of Fernando Pessoa, each with a different world view and style.",
+    pitch: "The book has a nickname: \"Factless Autobiography\". It is about the many personas of Fernando Pessoa, each with a different worldview and style.",
     whyOnList: "We felt the premise and the history (and significance to Portuguese literature) warranted it being placed on the list. It is a nice experimental and challenging read."
   },
   {
@@ -53,8 +53,8 @@ export const mainBooks: Book[] = [
     rating: 4.07,
     pageCount: 208,
     difficulty: "Moderate",
-    pitch: "We'll let the wikipedia sell you on this one:\nUnflattening is a graphic novel by artist and researcher Nick Sousanis that was originally the first dissertation from Columbia University to be written in a comic book format.",
-    whyOnList: "Given the theme this list has gone for, this seemed like a fitting graphic novel to keep on the spot. It also is an extremely interesting and approachable dissertation, something I want to see more of."
+    pitch: "We'll let the Wikipedia sell you on this one:\nUnflattening is a graphic novel by artist and researcher Nick Sousanis that was originally the first dissertation from Columbia University to be written in a comic book format.",
+    whyOnList: "Given the theme this list has gone for, this seemed like a fitting graphic novel to keep on the spot. It also is an extremely interesting and approachable dissertation, something we want to see more of."
   },
   {
     id: "6",
@@ -64,8 +64,8 @@ export const mainBooks: Book[] = [
     rating: 3.76,
     pageCount: 480,
     difficulty: "Challenging",
-    pitch: "",
-    whyOnList: ""
+    pitch: "Classic Pynchon chaos: conspiracies, strange government agencies, counterculture and narrative threads. It is unserious and serious at the same time.",
+    whyOnList: "We wanted at least one Pynchon on the list, but not one that requires three Wikipedia tabs open at all times. Vineland is the most forgiving entry point into his universe while still being very, very much a Pynchon book."
   },
   {
     id: "7",
@@ -75,8 +75,8 @@ export const mainBooks: Book[] = [
     rating: 4.29,
     pageCount: 167,
     difficulty: "Challenging",
-    pitch: "",
-    whyOnList: ""
+    pitch: "A dialogue between an author and the character she is creating. Almost like watching consciousness form in real time. Fragmented, intense and thought-provoking.",
+    whyOnList: "The concept seemed interesting and the book has survived the test of time. We also wanted to include one translated book on the list and Clarice Lispector seemed like a safe bet."
   },
   {
     id: "8",
@@ -86,8 +86,8 @@ export const mainBooks: Book[] = [
     rating: 4.13,
     pageCount: 224,
     difficulty: "Easy",
-    pitch: "The former finance minister of Greece explains, in plain english, global finance and economics to his daughter. Helps one understand what currency rates, tariffs, trade sanctions etc are and what they really mean.",
-    whyOnList: "1. We wanted to have a book for people who don't want to read fiction.\n2. The world would honestly be better if people knew macro-economics.\n3. It is genuinely filled with curiosity, humility and charm."
+    pitch: "The former finance minister of Greece explains, in plain English, global finance and economics to his daughter. Helps one understand what currency rates, tariffs, trade sanctions etc. are and what they really mean.",
+    whyOnList: "1. We wanted to have a book for people who don't want to read fiction.\n2. The world would honestly be better if people knew macroeconomics.\n3. It is genuinely filled with curiosity, humility and charm."
   },
   {
     id: "9",
@@ -97,8 +97,8 @@ export const mainBooks: Book[] = [
     rating: 4.22,
     pageCount: 151,
     difficulty: "Easy",
-    pitch: "With AI fear all around, this book imagines a different future. Why AI and humans can co-exist and make life better. The book is about the conversations between a robot and a tea-monk about \"what do people need?\". An easy, uplifting and hopeful read.",
-    whyOnList: ""
+    pitch: "With AI fear all around, this book imagines a different future. Why AI and humans can co-exist and make life better. The book is about the conversations between a robot and a tea-monk about \"what do people need?\" An easy, uplifting and hopeful read.",
+    whyOnList: "It is a refreshing perspective on life and a shift from all the AI apocalypse news in our current news cycle. Finally, the cover is really cute."
   },
   {
     id: "10",
@@ -108,8 +108,8 @@ export const mainBooks: Book[] = [
     rating: 4.10,
     pageCount: 304,
     difficulty: "Moderate",
-    pitch: "",
-    whyOnList: ""
+    pitch: "A story about a lone envoy, an icy planet and a friendship forged under extreme conditions. It is sci-fi without the laser ships and lightsabers; the centerpiece is the paradoxes exploration and innovation often pose.",
+    whyOnList: "Given we are a math institute, it felt essential to include at least one sci-fi novel that deals with ideas instead of just spectacle. Also, Harshitha has been bullying everyone to read this for way, way too long."
   }
 ];
 
@@ -122,8 +122,8 @@ export const honorableMentions: Book[] = [
     rating: 4.35,
     pageCount: 326,
     difficulty: "Moderate",
-    pitch: "A fiction exploring honor killings in India and it's effect on society. Written by an Indian and forces the reader to ask the hard questions.",
-    whyOnList: "The only reason it is not on the list is that it is quite a sad and depressing story about the female experience in India. We felt Arundhiti Roy already covered it."
+    pitch: "A fiction exploring honor killings in India and its effect on society. Written by an Indian and forces the reader to ask the hard questions.",
+    whyOnList: "The only reason it is not on the list is that it is quite a sad and depressing story about the female experience in India. We felt Arundhati Roy already covered it."
   },
   {
     id: "12",
@@ -133,8 +133,8 @@ export const honorableMentions: Book[] = [
     rating: 4.54,
     pageCount: 308,
     difficulty: "Moderate",
-    pitch: "",
-    whyOnList: ""
+    pitch: "Raw, tender and unflinching. A story about identity, labor, queerness and survival that refuses to sanitize or simplify anything.",
+    whyOnList: "A groundbreaking queer classic that has shaped generations of readers. The reason it is not on the main list is as it is too emotionally heavy for us to feel comfortable making a general recommendation."
   },
   {
     id: "13",
@@ -144,7 +144,7 @@ export const honorableMentions: Book[] = [
     rating: 3.75,
     pageCount: 279,
     difficulty: "Advanced",
-    pitch: "",
-    whyOnList: ""
+    pitch: "A re-telling of the French Revolution that focuses less on the battles and more on the psychology of fanaticism. Slowly escalating paranoia and idealism curdling into violence. Very relevant to what the current world state is.",
+    whyOnList: "Hits too close to the current world situation to feel like an escape and is quite dense. Hence, we relegated it to honourable mentions."
   }
 ];
