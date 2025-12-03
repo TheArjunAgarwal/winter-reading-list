@@ -4,18 +4,6 @@ import { HonorableMentions } from "./components/HonorableMentions";
 export default function App() {
   return (
     <div className="min-h-screen bg-slate-900 relative overflow-hidden">
-      {/* Right-side page note */}
-      <div className="fixed right-0 top-1/2 -translate-y-1/2 rotate-90 origin-right z-50">
-        <a
-          href="https://thearjunagarwal.github.io/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-slate-300 text-sm tracking-widest hover:text-white transition px-2"
-        >
-          Made by Arjun Maneesh Agarwal
-        </a>
-      </div>
-
       {/* Wavy background */}
       <div className="absolute inset-0 overflow-hidden">
         <svg
@@ -51,7 +39,7 @@ export default function App() {
         <header className="text-center mb-16">
           <h1 className="text-white mb-4 text-5xl md:text-6xl lg:text-7xl">The Winter I Turned Well Read</h1>
           <p className="text-slate-300 max-w-2xl mx-auto">
-            An curated book list for the cold months by the CMI Lit Club and Book Discussion club.
+            A curated book list for the cold months by the CMI Lit Club and Book Discussion club.
           </p>
         </header>
 
